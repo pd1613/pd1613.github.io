@@ -1,0 +1,157 @@
+<style>
+	#conter {
+		height:1080px;
+		width:1920px;
+		background:pink;
+		margin:10px auto;
+	}
+	
+	#head {
+		height:50px;
+		background:white;
+		margin:10px 0;
+	}
+	
+	.biaoti {
+		font-size:32px;
+		color:blue;
+		text-align:center;
+		line-height:50px;
+	
+	}
+	
+	#main {
+		height:800px;
+		width:1920px;
+		/*background-image: linear-gradient(#e66465, #9198e5);*/
+		/*clear:both;*/
+		margin-top:50px;
+	
+	}
+	
+	#lside {
+		float:left;
+		height:630px;
+		width:350px;
+		background:pink;
+		border:3px solid #8AC007;
+		padding: 20px;
+		border-radius:15px 50px;
+		line-height:35px;
+		margin:20px 40px 20px 80px;
+	}
+	
+	#lside h2 {
+		font-size:24px;
+		color:blue;
+		padding:5px;
+	}
+	
+	#lside li {
+		font-size:24px;
+		list-style:none;		
+	}
+	
+	#lside a {
+		text-decoration:none;
+	}
+	
+	#rside {
+		float:left;
+		padding: 20px;
+		height:630px;
+		width:350px;
+		background: #D8BFD8;
+		border:2px solid ;
+		border-radius:50px 50px;
+		line-height:35px;
+		margin:20px 60px 0 0;
+	}
+	
+	#rside h2 {
+		font-size:24px;
+		color: purple;
+		padding:5px;
+	}
+	
+	#rside li {
+		font-size:24px;
+		list-style:none;
+	}
+	
+	#rside a {
+		text-decoration:none;
+	}
+
+
+        #ldown {
+                float:left;
+                padding: 20px;
+                height:630px;
+                width:350px;
+                background: #E6E6FA;
+                border:2px solid;
+                border-radius:50px 50px;
+                line-height:35px;
+                margin:20px 60px 10px 0;
+        }
+
+        #ldown h2 {
+                font-size:24px;
+                color:DarkGreen;
+                padding:5px;
+        }
+
+        #ldown li {
+                font-size:24px;
+                list-style:none;
+        }
+
+        #ldown a {
+                text-decoration:none;
+        }
+
+
+        #rdown {
+                float:left;
+                padding: 20px;
+                height:630px;
+                width:350px;
+                background: #FFFFF0;
+                border:2px solid;
+                border-radius:50px 15px;
+                line-height:35px;
+                margin:20px 20px 30px 0;
+        }
+
+        #rdown h2 {
+                font-size:24px;
+                color:red;
+                padding:15px;
+        }
+
+        #rdown li {
+                font-size:24px;
+                list-style:none;
+        }
+
+        #rdown a {
+                text-decoration:none;
+        }
+
+
+	#footer {
+		height:30px;
+		/*background:gray;*/
+		margin:10px 0;
+		clear:both;
+	}
+	
+	#footer h2 {
+		font-size:16px;
+		color:gray;
+		padding:10px;
+		text-align:center;
+	}
+	
+</style>
